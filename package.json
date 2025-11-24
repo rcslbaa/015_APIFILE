@@ -8,5 +8,25 @@
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.37.7",
     "sequelize-cli": "^6.6.3"
-  }
+  },
+  "name": "praktikum9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcslbaa/015_APIFILE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcslbaa/015_APIFILE/issues"
+  },
+  "homepage": "https://github.com/rcslbaa/015_APIFILE#readme"
+  
 }
