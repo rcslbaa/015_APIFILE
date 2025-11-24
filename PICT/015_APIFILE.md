@@ -1,0 +1,5 @@
+1. Tampilan GET ![alt text](https://github.com/rcslbaa/015_APIFILE/blob/main/PICT/GET.png?raw=true)
+2. Tampilan POST ![alt text](https://github.com/rcslbaa/015_APIFILE/blob/main/PICT/POST.png?raw=true)
+3. Tampilan PUT ![alt text](https://github.com/rcslbaa/015_APIFILE/blob/main/PICT/PUT.png?raw=true)
+4. Tampilan DELETE ![alt text](https://github.com/rcslbaa/015_APIFILE/blob/main/PICT/DELETE.png?raw=true)
+5. Tampilan Database PgAdmin ![alt text](https://github.com/rcslbaa/015_APIFILE/blob/main/PICT/DATABASE%20PGADMIN.png?raw=true)
